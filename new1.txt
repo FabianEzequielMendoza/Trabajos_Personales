@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 holaaa
 asdadasd
 asdasdad
+=======
+holaaa
+>>>>>>> parent of 14d1db7... Update new1.txt
